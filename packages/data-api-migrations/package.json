@@ -1,6 +1,6 @@
 {
   "name": "@arlequins/data-api-migrations",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.0",
   "description": "Migrations library for Aurora Serverless Data API.",
   "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/data-api-migrations",
   "repository": {
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "aurora-data-api": "^2.0.0-alpha.1",
+    "aurora-data-api": "^2.0.0-alpha.0",
     "date-fns": "^2.11.0",
     "fs-extra": "^8.1.0",
     "lodash": "^4.17.15",
@@ -35,5 +35,6 @@
     "@types/jest": "^24.9.1",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.9.3"
-  }
+  },
+  "gitHead": "829119e621ad54d748ed2fa7178a203b6f4188e2"
 }

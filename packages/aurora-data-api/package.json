@@ -1,6 +1,6 @@
 {
   "name": "@arlequins/aurora-data-api",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.0",
   "description": "Aurora Serverless Data API Client that simplifies the request and response payloads.",
   "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/aurora-data-api",
   "repository": {
@@ -37,5 +37,6 @@
     "aurura",
     "data api",
     "postgres"
-  ]
+  ],
+  "gitHead": "829119e621ad54d748ed2fa7178a203b6f4188e2"
 }
