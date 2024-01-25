@@ -1,15 +1,15 @@
 {
-  "name": "data-api-migrations-serverless",
-  "version": "1.0.0-alpha.3",
+  "name": "@arlequins/data-api-migrations-serverless",
+  "version": "2.0.0-alpha.1",
   "description": "Serverless plugin to start an Aurora Serverless Data API emulator for local development.",
-  "homepage": "https://github.com/marcgreenstock/data-api-suite/tree/master/packages/data-api-migrations-serverless",
+  "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/data-api-migrations-serverless",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcgreenstock/data-api-suite.git",
+    "url": "https://github.com/arlequins/data-api-suite.git",
     "directory": "packages/data-api-migrations-serverless"
   },
   "bugs": {
-    "url": "https://github.com/marcgreenstock/data-api-suite/issues"
+    "url": "https://github.com/arlequins/data-api-suite/issues"
   },
   "keywords": [
     "AWS Aurora Serverless Data API",
@@ -34,7 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
-    "data-api-migrations": "^1.0.0-alpha.3"
+    "data-api-migrations": "^2.0.0-alpha.1"
   },
   "devDependencies": {
     "@types/jest": "^24.9.1",
