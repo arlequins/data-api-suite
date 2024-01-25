@@ -1,6 +1,6 @@
 {
   "name": "@arlequins/data-api-migrations-serverless",
-  "version": "2.0.0-alpha.2",
+  "version": "2.0.0-alpha.0",
   "description": "Serverless plugin to start an Aurora Serverless Data API emulator for local development.",
   "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/data-api-migrations-serverless",
   "repository": {
