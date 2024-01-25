@@ -1,8 +1,11 @@
 {
   "name": "@arlequins/data-api-local",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.0",
   "description": "AWS Aurora Serverless Data API emulator for local development.",
   "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/data-api-local",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/arlequins/data-api-suite.git",
@@ -49,5 +52,5 @@
     "jest": "^25.1.0",
     "typescript": "^3.8.3"
   },
-  "gitHead": "829119e621ad54d748ed2fa7178a203b6f4188e2"
+  "gitHead": "8fd858de28383aa69cf49e0753a0cb1ccb508a03"
 }
