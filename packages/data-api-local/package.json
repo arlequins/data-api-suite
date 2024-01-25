@@ -1,15 +1,18 @@
 {
-  "name": "data-api-local",
-  "version": "1.0.0-alpha.2",
+  "name": "@arlequins/data-api-local",
+  "version": "2.0.0-alpha.1",
   "description": "AWS Aurora Serverless Data API emulator for local development.",
-  "homepage": "https://github.com/marcgreenstock/data-api-suite/tree/master/packages/data-api-local",
+  "homepage": "https://github.com/arlequins/data-api-suite/tree/master/packages/data-api-local",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcgreenstock/data-api-suite.git",
+    "url": "https://github.com/arlequins/data-api-suite.git",
     "directory": "packages/data-api-local"
   },
   "bugs": {
-    "url": "https://github.com/marcgreenstock/data-api-suite/issues"
+    "url": "https://github.com/arlequins/data-api-suite/issues"
   },
   "keywords": [
     "AWS Aurora Serverless Data API",
@@ -49,5 +52,5 @@
     "jest": "^25.1.0",
     "typescript": "^3.8.3"
   },
-  "gitHead": "d5943d370a3f57b140ea9870ac58436b9f3ae4d2"
+  "gitHead": "8fd858de28383aa69cf49e0753a0cb1ccb508a03"
 }
